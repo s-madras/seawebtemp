@@ -1,0 +1,41 @@
+ /* For tablets: */
+
+  @media only screen and (min-width: 600px) {
+
+
+  .from{
+ width: 100%;
+ background-color:#FFFFFD;
+ border-radius: 10px;
+ border: 1px solid lightgray;
+ margin-top: 3%;
+ margin-left: 3%;
+ box-shadow: 3px 3px 3px 2px grey;
+ padding: 20px;
+
+
+}
+
+    
+      }
+
+
+      @media only screen and (max-width: 600px) {
+
+
+  .from{
+ width: 100%;
+ background-color:#FFFFFD;
+ border-radius: 10px;
+ border: 1px solid lightgray;
+ margin-top: 3%;
+ margin-left: 3%;
+ box-shadow: 3px 3px 3px 2px grey;
+ padding: 20px;
+
+
+}
+
+    
+      }
+ 
