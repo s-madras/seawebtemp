@@ -34,7 +34,7 @@
    else{
    	$reg =  "insert into usertable(f_name' ,l_name, email,password, c_password, class, id_no,gender_input, session, group)"
    }
-
+  This Change is from Soumitra Saha
 
    */
 
