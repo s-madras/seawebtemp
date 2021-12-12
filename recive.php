@@ -13,6 +13,9 @@
    mysqli_query($con,$sql);
 
    /*
+   
+   This Comment is from Mrittunjoy.
+   
    $email = $_POST['email'];
    $password = $_POST['password'];
    $c_password = $_POST['c_password'];
